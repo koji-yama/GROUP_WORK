@@ -1,0 +1,27 @@
+# python
+
+~a            # ビット反転
+a & b         # AND:論理積(aもbも1のビットが1)
+a | b         # OR:論理和(aまたはbが1のビットが1)
+a ^ b         # XOR:排他的論理和(aまたはbが1のビットが1)
+a << b        # b ビット左シフト
+a >> b        # b ビット右シフト
+
+
+a &= b        # a = a & b に同じ
+a |= b        # a = a | b に同じ
+a ^= b        # a = a ^ b に同じ
+a <<= b       # a = a << b に同じ
+a >>= b       # a = a >> b に同じ
+
+a == b           # a が b と等しい
+a != b           # a が b と異なる
+a < b            # a が b よりも小さい
+a > b            # a が b よりも大きい
+a <= b           # a が b 以下である
+a >= b           # a が b 以上である
+a <> b           # a が b と異なる
+a is b           # a が b と等しい
+a is not b       # a が b と異なる
+a in b           # a が b に含まれる
+a not in b       # a が b に含まれない
