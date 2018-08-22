@@ -1,5 +1,11 @@
 # GROUP_WORK
 
+<<<<<<< HEAD
 -•¡”l—p
 
 aaaaa
+=======
+-ï¿½ï¿½ï¿½ï¿½ï¿½lï¿½p
+
+many people
+>>>>>>> fbdc143163d7f8d954956e24ac47e2f76c10bf7d
